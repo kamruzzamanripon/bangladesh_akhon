@@ -1,0 +1,585 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-05 10:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: footer.php:38
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:40
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:45
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:45
+msgid "https://www.bangladeshakhon24.com"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary-sub"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:97
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:105
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:107
+msgid "Add footer widgets here."
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:27
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:41
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: 404.php:47
+msgid "Most Used Categories"
+msgstr ""
+
+#: index.php:21
+msgid "Blog"
+msgstr ""
+
+#. %s: search query.
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/required-plugings.php:48
+msgid "King Composer"
+msgstr ""
+
+#: inc/required-plugings.php:53
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/required-plugings.php:58
+msgid "Contact Form 7"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:54
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:57
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:61
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:64
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:74
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:91 template-parts/content-page.php:35
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:12 inc/theme-metabox-and-option.php:20
+#: inc/theme-metabox-and-option.php:110 inc/theme-metabox-and-option.php:170
+#: inc/theme-metabox-and-option.php:178
+msgid "Slide Options"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:27
+msgid "Slide Text Width"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:45
+msgid "Slide Text Offset"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:63
+msgid "Slide Text Align"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:80 inc/theme-metabox-and-option.php:191
+msgid "Enable Overlay?"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:86 inc/theme-metabox-and-option.php:197
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:93 inc/theme-metabox-and-option.php:204
+msgid "Overlay Opacity"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:118
+msgid "Page Slide Options"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:125
+msgid "Header Style"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:135
+msgid "Enable Page Title"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:141
+msgid "Add Page Custom Title"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:147
+msgid "Title Text Align"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:205
+msgid "Type a number for overlay opacity, 1 to 100 only"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:243
+msgid "Social LInk"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:249
+msgid "type social link"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:250 inc/theme-metabox-and-option.php:284
+msgid "Add New"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:251
+msgid "Add New Field"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:256
+msgid "Select icon"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:261
+msgid "type Link"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:272
+msgid "Header Setting"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:278
+msgid "Logo Text"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:283
+msgid "Header 1 Link"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:285
+msgid "Add New Link"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:290
+msgid "Text"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:295
+msgid "Link"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:301
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:307
+msgid "Text Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:312
+msgid "Link Open in"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:323
+msgid "Width Menu"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:341
+msgid "Enable Search Bar on Menu"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:346
+msgid "Search Area Width"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:372
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:378
+msgid "Body Font"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:387 inc/theme-metabox-and-option.php:431
+msgid "Select Font Variants"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:409
+msgid "Body Font Size"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:415
+msgid "Different Heading Font?"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:421
+msgid "Heading Font"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:458
+msgid "Styling"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:464
+msgid "Header 1 Menu Bg Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:470
+msgid "Header 2 Menu Bg Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:476
+msgid "Primary Color"
+msgstr ""
+
+#: inc/theme-metabox-and-option.php:482
+msgid "Secondary Color"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:44
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:60 template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: inc/cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:32
+#: inc/cs-framework/fields/typography/typography.php:107
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:82
+#: inc/cs-framework/fields/icon/icon.php:25
+msgid "Add Icon"
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: inc/cs-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:371
+#: inc/cs-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: inc/cs-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:82
+#: inc/cs-framework/classes/shortcode.class.php:90
+#: inc/cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:131
+#: inc/cs-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: inc/cs-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: inc/cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: inc/cs-framework/fields/upload/upload.php:23
+#: inc/cs-framework/fields/upload/upload.php:24
+#: inc/cs-framework/fields/background/background.php:34
+#: inc/cs-framework/fields/background/background.php:35
+msgid "Upload"
+msgstr ""
+
+#: inc/cs-framework/fields/upload/upload.php:25
+#: inc/cs-framework/fields/background/background.php:36
+msgid "Use Image"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: inc/cs-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: inc/cs-framework/fields/group/group.php:43
+#: inc/cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: inc/cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: inc/cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: inc/cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#. Name of the theme
+msgid "advance-wordpress"
+msgstr ""
+
+#. Description of the theme
+msgid "Lean Advance Wordpress Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.bangladeshakhon24.com/demos/wp/advance-wordpress"
+msgstr ""
+
+#. Author of the theme
+msgid "syed kamruzzaman"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.bangladeshakhon24.com/rrf"
+msgstr ""

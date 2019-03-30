@@ -1,0 +1,12 @@
+[06-May-2018 16:26:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/404.php on line 10
+[25-Jul-2018 06:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/footer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/footer.php on line 20
+[25-Jul-2018 06:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/footer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/bangladeshakhon/public_html/wp-content/themes/advance-wordpress/footer.php on line 20
